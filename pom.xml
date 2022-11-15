@@ -17,7 +17,6 @@
         </developer>
     </developers>
     <modules>
-        <module>Database/MySQL</module>
         <module>Database/AbstractDatabase</module>
     </modules>
 
