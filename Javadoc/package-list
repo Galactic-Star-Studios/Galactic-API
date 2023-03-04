@@ -1,6 +1,0 @@
-dev.galactic.star.database.databases
-dev.galactic.star.database.impl
-dev.galactic.star.database.impl.exceptions
-dev.galactic.star.database.impl.mapping.annotations
-dev.galactic.star.database.impl.objects
-dev.galactic.star.tools
